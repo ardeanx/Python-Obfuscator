@@ -1,19 +1,5 @@
   <h3 align="center">Python Obfuscator</h3>
-
-  <p align="center">
-    Powerful Python Obfuscator
-    <br />
-    <a href="https://t.me/varestealer"><strong>Telegram Channel</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/saintdaddy/Vare-Obfuscator2.0/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/saintdaddy/Vare-Obfuscator2.0/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/saintdaddy/Vare-Obfuscator2.0/pulls">Send a Pull Request</a>
-  </p>
-</p>
-
+  
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project

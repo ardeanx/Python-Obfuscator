@@ -9,10 +9,10 @@ Python Obfuscator Uses AES to Crypt Codes. It makes it easier to enter the syste
 ## Usage
 
 ```
-python Vare.py [filename] [options: --junk --sign]
+python main.py [filename] [options: --junk --sign]
 ```
 ```
-python Vare.py --help
+python main.py --help
 ```
 
 <!-- CONTRIBUTING -->

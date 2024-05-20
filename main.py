@@ -92,7 +92,7 @@ def saint{random.randint(99999, 9999999)}():
                 y.write("# This Code Obfuscated With 'Vare Obfuscator 2.0'\n"+a)
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description="Vare Obfuscator 2.0")
+    parser = argparse.ArgumentParser(description="Python Obfuscator")
     parser.add_argument("file", help="Enter the file name containing the Python code to obfuscate")
     parser.add_argument("--junk", action="store_true", help="Inject junk code into the obfuscated code")
     parser.add_argument("--sign", action="store_true", help="Compile your code with PyInstaller and sign it with SigThief (For Low Detection) - If you want to use this option, add the modules of your own code to the top line of the stub file, otherwise it will not work when converted to exe.")
